@@ -19,5 +19,7 @@ roberta  ..gaojie_transformers.model.roberta import RobertaModel
 
 roberta-large  ..transformer.model.roberta import RobertaModel
 
+需要注意：运行时，模型训练的参数存储地址需要改变，result存储地址，import模型位置，线性层维度
+
 
 
