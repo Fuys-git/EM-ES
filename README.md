@@ -11,4 +11,4 @@ SemEval评价函数pl文件
 
 fine_tune.sh微调超参
 
-pretrained文件夹存放的是模型config、pytorch_model.bin等 未上传
+pretrained文件夹存放的是模型config、pytorch_model.bin等 (因文件太大未上传)
